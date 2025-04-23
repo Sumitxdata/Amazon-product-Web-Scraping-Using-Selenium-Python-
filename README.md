@@ -37,8 +37,20 @@ The main script, `amazon_product_scraper.ipynb`, demonstrates how to use Seleniu
 
 You can customize the script to scrape specific product categories or search results by modifying the Amazon search URL within the code.
 
+
 ## Output
 
 The scraped data is stored in a CSV file named `Amazon Product Scraping.csv`. This file contains columns for product descriptions, prices, image URLs, ratings, and total ratings.
 
 ![Image](https://github.com/user-attachments/assets/198f1853-11a9-4ae0-86a9-ed5f5db9d9f0)
+
+
+## Contributing
+
+If you would like to contribute to this project or report issues, please open an issue or create a pull request.
+
+
+## Acknowledgments
+
+- This project was inspired by the need to gather Amazon product data for analysis and research purposes.
+- Special thanks to the open-source community for developing the Selenium library.
